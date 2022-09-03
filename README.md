@@ -1,5 +1,5 @@
 # QuantumZombieEscape
-##2D platform shooter
+## 2D platform shooter
 
 I made this game for my A-Level computer science coursework in 2020 and achieved an A*.
 
